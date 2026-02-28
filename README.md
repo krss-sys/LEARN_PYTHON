@@ -1,29 +1,29 @@
-# 🚀 Project Aoi - Intelligent System Manager
+# Repo Aoi - Intelligent System Manager
 
 > **Aoi** is an intelligent bot designed for hardware monitoring and automation using Python.
 
 ---
 
 ## 🛠️ Project Structure
-* 📂 `main.py`: Central Command Unit.
-* 📂 `modules/`: Functional Components (Reusable code).
-* 📂 `research/`: Testing Lab (Daily learning scripts).
+* `main.py`: Central Command Unit.
+* `modules/`: Functional Components (Reusable code).
+* `research/`: Testing Lab (Daily learning scripts and homework).
 
 ---
 
-## 🗺️ Roadmap (Phase 1)
+## 🗺️ Roadmap & Logs (Phase 1)
 
 ### 🧱 Chapter 1: Foundations
-* Variables, Loops (`while True`), Logic (`if/else`), Functions (`def`).
+* **Lesson 1 (Day 1)**: Variable assignment, basic datatypes (str, int, bool), and f-strings.
+  - File: `research/chapter_01/01_variable_datatype.py`
+* **Homework 1 (Day 2)**: Employee Data Management System.
+  - File: `research/chapter_01/01_homework.py`
+* **Lesson 2 (Day 2)**: while loops and `time.sleep` for background running.
+  - File: `research/chapter_01/02_while_loop.py`
 
-### 👁️ Chapter 2: Hardware Perception
-* RAM, CPU, ROM monitoring, Battery & Temp sensors using `psutil`.
+---
 
-### ✋ Chapter 3: Automation
-* Process killing (`os`, `psutil`), File organizing (`shutil`), Alerts.
-
-### 🌐 Chapter 4: Connectivity
-* Telegram Bot API for remote reporting and control.
-
-### 🧠 Chapter 5: AI Integration
-* LLM integration, Voice notifications (TTS), VTube Studio API.
+## 🚀 How to Run
+```bash
+python research/01_variable_datatype.py
+python research/01_homework.py
