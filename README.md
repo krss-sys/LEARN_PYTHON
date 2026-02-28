@@ -21,9 +21,3 @@
 * **Lesson 2 (Day 2)**: while loops and `time.sleep` for background running.
   - File: `research/chapter_01/02_while_loop.py`
 
----
-
-## 🚀 How to Run
-```bash
-python research/01_variable_datatype.py
-python research/01_homework.py
