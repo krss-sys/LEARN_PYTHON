@@ -14,14 +14,11 @@
 ## 📖 Roadmap & Logs (Phase 1)
 
 ### 🧱 Chapter 1: Foundations
-* **Lesson 1 (Day 1)**: Variable assignment, basic datatypes (str, int, bool), and f-strings.
-    - File: `research/chapter_01/01_variable_datatype.py`
-* **Homework 1 (Day 2)**: Employee Data Management System.
-    - File: `research/chapter_01/01_homework.py`
-* **Lesson 2 & 3 (Combined - Day 2)**: While loops, time sleep, and conditional logic (`if/elif/else`).
-    - File: `research/chapter_01/02_03_while_loop.py`
-    - Description: Implemented a robust "Aoi" integrating loops and safety checks.
-* **Lesson 4 (Day 3)**: Functional programming (`def`).
+* **Lesson 4 (Day 3 & 4)**: Functional programming (`def`).
     - File: `research/chapter_01/04_functions.py`
-    - Description: Refactored "Aoi" into modular functions for better maintainability.
-
+    - Homework: `research/chapter_01/04_homework.py`
+    - Description: 
+        - [04/03/2026]: Refactored thermal monitoring system into modular functions.
+        - Mastered data flow: understanding parameters, return values, and state updates via `temp = use_fire_extinguisher(temp)`.
+        - Optimized logic: Switched from random reduction to fixed safety reset at 40°C for system stability.
+        - Improved execution order to prevent "immortal bot" bug during overheat checks.
