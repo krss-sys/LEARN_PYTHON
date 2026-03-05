@@ -11,14 +11,16 @@
 
 ---
 
-## 📖 Roadmap & Logs (Phase 1)
+## 🛠️ Dev Log & Daily Progress
 
 ### 🧱 Chapter 1: Foundations
-* **Lesson 4 (Day 3 & 4)**: Functional programming (`def`).
-    - File: `research/chapter_01/04_functions.py`
-    - Homework: `research/chapter_01/04_homework.py`
-    - Description: 
-        - [04/03/2026]: Refactored thermal monitoring system into modular functions.
-        - Mastered data flow: understanding parameters, return values, and state updates via `temp = use_fire_extinguisher(temp)`.
-        - Optimized logic: Switched from random reduction to fixed safety reset at 40°C for system stability.
-        - Improved execution order to prevent "immortal bot" bug during overheat checks.
+* **Lesson 4**: Mastering Functions (`def`).
+    - Main File: `research/chapter_01/04_functions.py`
+    - Homework 01: `research/chapter_01/04_homework_01.py` (Thermal Bot)
+    - Homework 02: `research/chapter_01/04_homework_02.py` (Mars Mining Robot)
+    - Description:
+        - [05/03/2026]: Still struggling with `def` logic, decided to double down on practice.
+        - Deep dive into **Multi-variable Data Flow**: Passed and returned multiple parameters simultaneously (Energy, Health, Minerals).
+        - Fixed **Scope & Return** bugs: Resolved "immortal bot" and "silent failure" issues by ensuring proper function exits.
+        - Refactored logic with **Guard Clauses**: Cleaned up nested `if-else` into a streamlined, linear structure.
+        - Currently tackling the **Space Station Exam** to solidify functional programming mindset.
