@@ -27,7 +27,7 @@
 
 ## 🗺️ Phase 1: The Control Station (Foundations)
 > **Goal:** Build a bulletproof foundation for the bot's core logic. Chapter 1 has been expanded to 12 intensive modules.
-    ```text
+
     [x] Lesson 01: Variables, Data Types & F-strings
 
     [x] Lesson 02: System Pulse (time.sleep & while True)
