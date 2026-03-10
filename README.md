@@ -2,53 +2,27 @@
 
 > **Aoi** is an intelligent bot designed for hardware monitoring and automation using Python.
 
----
-
-
-## 🗺️ Phase 1: The Control Station (Foundations)
-> **Goal:** Build a bulletproof foundation for the bot's core logic. Chapter 1 has been expanded to 12 intensive modules.
-
-    [x] Lesson 01: Variables, Data Types & F-strings
-
-    [x] Lesson 02: System Pulse (time.sleep & while True)
-
-    [x] Lesson 03: Decision Logic (if/elif/else)
-
-    [x] Lesson 04: Power Packaging (def Functions)
-
-    [x] Lesson 05: Exception Handling (try-except)
-
-    [ ] Lesson 06: File I/O & JSON - Long-term Memory
-
-    [ ] Lesson 07: Basic List & Dict - Alert Management
-
-    [ ] Lesson 08: Advanced Parameters (*args, **kwargs)
-
-    [ ] Lesson 09: Time Management (datetime)
-
-    [ ] Lesson 10: OOP Basics - Entity Encapsulation
-
-    [ ] Lesson 11: Basic Threading - Multi-tasking
-
-    [ ] Lesson 12: System Logging - Audit Trail
 
 ---
 
 ## 🛠️ Dev Log & Daily Progress
 
-### 🧱 Chapter 1: Foundations
+### 🧱 Chapter 1: 
 
-> **Lesson 5**: Exception Handling (try-except) - Building Bulletproof Systems.
+***Lesson 5*** - Logic & Error Handling
+Focus: Mastered Functions (def) architecture, Variable Scope, and Exception Handling (try-except).
 
-**Main File: research/chapter_01/05_lession/05_exception_handling.py**
+Files:
 
-```text
-Key Technical Milestones:
+> 05_homework_01.py: Energy Distribution System.
 
-- Data Integrity Protection: Implemented try-except blocks to intercept ValueError, ensuring the bot doesn't crash when receiving non-numeric inputs.
+> 05_homework_sample_01.py: Logic testing & Sample scenarios.
 
-- Graceful Shutdowns: Integrated KeyboardInterrupt handling to manage manual system exits (Ctrl+C) with clean status messages.
+Key Learnings:
 
-- Zero-Failure Logic: Applied ZeroDivisionError prevention to handle critical calculation risks in energy distribution modules.
+- **Data Flow**: Passed actual arguments to formal parameters and handled multiple return values via positional mapping.
 
-- Mandatory Cleanup Protocols: Utilized finally blocks to guarantee that system logs and "safe-state" messages are always executed, regardless of errors.
+- **State Management**: Updated global state by re-assigning returned values in the main loop.
+
+- **Error Handling**: Implemented try-except blocks to catch ValueError during user input.
+
