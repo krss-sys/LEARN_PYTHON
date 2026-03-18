@@ -18,11 +18,9 @@ Files:
 
 > 05_homework_sample_01.py: Logic testing & Sample scenarios.
 
+>05_homework_02.py: I'm stupid 
+
 Key Learnings:
+- **I DON'T UNDERSTAND ANYTHING AT ALL**
 
-- **Data Flow**: Passed actual arguments to formal parameters and handled multiple return values via positional mapping.
-
-- **State Management**: Updated global state by re-assigning returned values in the main loop.
-
-- **Error Handling**: Implemented try-except blocks to catch ValueError during user input.
 
