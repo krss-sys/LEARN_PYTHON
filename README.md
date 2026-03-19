@@ -9,18 +9,17 @@
 
 ### 🧱 Chapter 1: 
 
-***Lesson 5*** - Logic & Error Handling
-Focus: Mastered Functions (def) architecture, Variable Scope, and Exception Handling (try-except).
+### Lesson 4 - Functions (cont.)
 
-Files:
+**Today:** `04_homework_04.py` - Battleship menu with:
+- Password check function
+- Countdown with Ctrl+C handling
+- String input validation
 
-> 05_homework_01.py: Energy Distribution System.
-
-> 05_homework_sample_01.py: Logic testing & Sample scenarios.
-
->05_homework_02.py: I'm stupid 
-
-Key Learnings:
-- **I DON'T UNDERSTAND ANYTHING AT ALL**
+**Learned:**
+- Functions return values → use in `if`
+- Empty input = `choice == ""`
+- try-except in different scopes
+- `return` vs `break`
 
 
