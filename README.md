@@ -12,12 +12,15 @@
 ### Lesson 6 - File I/O & JSON
 
 **Today:**  
+
 `06_file.py` - learn file
-
+-
 `06_homework_01.py` - homework file
-
+-
 `06_json.py` - learn json
-
+-
+`06_homework_02.py` - homework json
+-
 **Learned:**
 - `json.dump()` and `json.load()` for data storage
 - `with open()` for safe file handling
