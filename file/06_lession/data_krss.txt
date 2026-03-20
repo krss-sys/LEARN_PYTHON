@@ -1,0 +1,2 @@
+Dòng 1: Đây là nội dung cũ.
+Dòng 2: Đây là nội dung mới được thêm vào!

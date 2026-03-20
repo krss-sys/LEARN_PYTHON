@@ -1,0 +1,10 @@
+{
+    "ten": "Krss",
+    "level": 6,
+    "is_hacker": true,
+    "skills": [
+        "Python",
+        "Logic",
+        "File Handling"
+    ]
+}
