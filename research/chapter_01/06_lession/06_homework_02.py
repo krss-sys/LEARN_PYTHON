@@ -8,21 +8,21 @@ data = {
 }
 
 def save_agent(data):
-    with open("file/agent_profile.json", "w", encoding="utf-8") as f:
+    with open("file/06_lession/agent_profile.json", "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
     print("da luu thong tin dac vu")
 
 def load_agent():
-    with open("file/agent_profile.json", "r", encoding="utf-8") as f:
+    with open("file/06_lession/agent_profile.json", "r", encoding="utf-8") as f:
         dac_vu = json.load(f)
         print(f"Dac vu {dac_vu} da san sang!")
 
 def write_log(action):
-    with open("file/log.txt", "a", encoding="utf-8") as h:
+    with open("file/06_lession/log.txt", "a", encoding="utf-8") as h:
         h.write(action +"\n")
 
 def read_log():
-    with open("file/log.txt", "r", encoding="utf-8") as h:
+    with open("file/06_lession/log.txt", "r", encoding="utf-8") as h:
         nhat_ki_hoat_dong = h.read()
         print(nhat_ki_hoat_dong)
 

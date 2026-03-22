@@ -21,6 +21,8 @@
 -
 `06_homework_02.py` - homework json
 -
+`06_homework_03.py` - exam
+-
 **Learned:**
 - `json.dump()` and `json.load()` for data storage
 - `with open()` for safe file handling
