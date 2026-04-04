@@ -2,32 +2,27 @@
 
 > **Aoi** is an intelligent bot designed for hardware monitoring and automation using Python.
 
-
 ---
 
-## 🛠️ Dev Log & Daily Progress
+## 🛠 Dev Log & Daily Progress
 
-### Chapter 1:
+### Chapter 1: Fundamentals
 
-### Lesson 6 - File I/O & JSON
+### Lesson 6 & 7 - Advanced Dictionary & JSON Integration
 
-**Today:**  
+**Today's Task:**
+- `06_07_homework_04.py`: Inventory Management System.
+- Implementing Nested Dictionaries combined with JSON for persistent data storage.
+- Developing core logic for Stock In, Stock Out, and Data Retrieval from "Permanent Memory".
 
-`06_file.py` - learn file
--
-`06_homework_01.py` - homework file
--
-`06_json.py` - learn json
--
-`06_homework_02.py` - homework json
--
-`06_homework_03.py` - exam
--
-**Learned:**
-- `json.dump()` and `json.load()` for data storage
-- `with open()` for safe file handling
-- `os.path.exists()` to check if file exists
-- Different file modes: read, write, append
+**Key Learnings:**
+- Mastered `json.dump()` and `json.load()` to synchronize RAM data with local storage.
+- Utilized `global` keywords to maintain a consistent state across multiple functions.
+- Applied Data Casting (`str`, `int`, `float`) to prevent type mismatch errors between JSON keys and user inputs.
+- Implemented `try...except` blocks to ensure system stability when data files are missing.
+
+**Status:**
+- Currently mastering complex Dictionary structures. Still refining the logic for ID management (String vs. Integer) and data flow.
+- Core achievement: Aoi now possesses a "Digital Brain" capable of retaining data after a system reboot.
 
 **Result:** Station now has permanent memory! Data survives reboot.
-

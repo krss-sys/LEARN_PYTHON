@@ -122,7 +122,7 @@ def main():
             break
         else:
             print("Vui long nhap dung phim tat")
-        if choice !=5:
+        if choice !="5":
             input("Nhan Enter de tiep tuc")
     time.sleep(1)
 main()    
