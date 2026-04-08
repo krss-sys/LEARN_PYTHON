@@ -5,17 +5,17 @@ This repository is dedicated to my journey of mastering Python, from core fundam
 ---
 
 ## 🚀 Daily Focus & Status
-- **Current Goal:** Mastering Dictionaries & JSON Integration.
-- **Next Milestone:** Mastering Advanced Function Arguments (*args, **kwargs, default values) for flexible bot logic.
+- **Current Goal:** Learn how to read, write, append, delete, and edit text files in Python.
+- **Next Milestone:** LOADING...
 
 ---
 
-## 📝 Activity Log
+## Activity Log
 
-### [2026-04-06] - Lesson 6 & 7: Advanced Data Structures
-- **Topic:** Dictionary methods and JSON file handling.
-- **Key Task:** Completed `06_07_homework_04.py`.
-- **Note:** Focused on data parsing and nested structures.
+### [08-04-2026] - Lesson 6: File Handling (TXT)
+- **Topic:** Read, write, append, delete, and edit text files.
+- **Key Task:** Completed `06_homework_06.py` (To-Do list with file storage).
+- **Note:** Used `with open()`, `readlines()`, `writelines()`, and `strip()`.
 
 ---
 
