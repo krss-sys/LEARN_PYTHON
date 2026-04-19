@@ -5,15 +5,15 @@ This repository is dedicated to my journey of mastering Python, from core fundam
 ---
 
 ## 🚀 Daily Focus & Status
-- **Current Goal:** Learn how to read, write, append, delete, and edit text files in Python.
+- **Current Goal:** Learn how to read, write, append, delete, and edit json in Python.
 - **Next Milestone:** LOADING...
 
 ---
 
 ## Activity Log
 
-### [14-04-2026] 
-- **Task**: sort files
+### [19-04-2026] 
+- **Task**: do homework json
 
 ---
 
