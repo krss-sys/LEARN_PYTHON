@@ -5,15 +5,15 @@ This repository is dedicated to my journey of mastering Python, from core fundam
 ---
 
 ## 🚀 Daily Focus & Status
-- **Current Goal:** Learn how to read, write, append, delete, and edit json in Python.
+- **Current Goal:** I'm going back to basics starting from Chapter 1 because I feel like I've missed several key concepts
 - **Next Milestone:** LOADING...
 
 ---
 
 ## Activity Log
 
-### [19-04-2026] 
-- **Task**: do homework json
+### [23-04-2026] 
+- **Task**: revisit chapter 1
 
 ---
 
