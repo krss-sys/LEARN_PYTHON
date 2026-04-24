@@ -12,8 +12,8 @@ This repository is dedicated to my journey of mastering Python, from core fundam
 
 ## Activity Log
 
-### [23-04-2026] 
-- **Task**: revisit chapter 1
+### [24-04-2026] 
+- **Task**: do homework
 
 ---
 
