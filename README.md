@@ -12,8 +12,8 @@ This repository is dedicated to my journey of mastering Python, from core fundam
 
 ## Activity Log
 
-### [24-04-2026] 
-- **Task**: do homework
+### [01-05-2026] 
+- **Task**: Temporarily dropping Python to fully focus on mastering C++ and systems programming.
 
 ---
 
